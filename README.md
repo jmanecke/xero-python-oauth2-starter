@@ -9,7 +9,7 @@ Please use your Demo Company organisation for your testing.
 ## Getting Started
 
 ### Prerequirements
-* python3.5+ installed
+* python3.9+ installed
 * git installed
 * SSH keys setup for your github profile.
 
@@ -20,6 +20,7 @@ Please use your Demo Company organisation for your testing.
 * Open terminal window and navigate to your `xero-python-oauth2-starter` local drive directory 
 * Create new python virtual environment by running `python3 -m venv venv`
 * Activate new virtual environment by running `source venv/bin/activate`
+* Ensure tools are current `pip install --upgrade pip setuptools wheel`
 * Install project dependencies by running `pip install -r requirements.txt`
 
 ## Create a Xero App
